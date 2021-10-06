@@ -16,7 +16,7 @@
 #### "...If you don't know where you want to go, then it doesn't matter which path you take." Lewis Carroll
 
  - 📍From Campo Grande - MS 🇧🇷
- - <a href="https://gitconnected.com/vimossi/resume" target="_blank">Curriculum</a>
+ - 💻<a href="https://gitconnected.com/vimossi/resume" target="_blank">Curriculum</a>
  
 
 ## 🖥️ Technologies
