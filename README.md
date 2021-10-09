@@ -4,7 +4,7 @@
 
 🧑‍💻 I'm a web development at studenty at Trybe School.
  </br>
-🤓 I'm currently learning Back-End technologies.
+🤓 I'm currently learning Back end technologies, and i am a Front end developer.
 </br>
 👨‍🎓 Furthermore, I'm degree in Pedagogy from the State University of Mato Grosso do Sul - UEMS.
 </br>
