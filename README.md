@@ -1,19 +1,17 @@
-# Hey, I'm Vinicius Passos Mossi 👋🏽
+# Hey! Sou o Vinicius 👋🏽
 
- ## Who I am? 👦
-
-🧑‍💻 I'm a web development at studenty at Trybe School.
+🧑‍💻 Estudante de Desenvolvimento Web FullStack pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
  </br>
-🤓 I'm currently learning Back end technologies, and i am a Front end developer.
+🤓 Estou estudando Back-end e sou um Devsenvolvedor Front-end.
 </br>
-👨‍🎓 Furthermore, I'm degree in Pedagogy from the State University of Mato Grosso do Sul - UEMS.
+👨‍🎓 Além disso, estou me formando em Pedagogia na Universidade Estadual de Mato Grosso do Sul -UEMS.
 </br>
 
- - 📍From Campo Grande - MS 🇧🇷
+ - 📍 Campo Grande - MS 🇧🇷
  - 💻 <a href="https://gitconnected.com/vimossi/resume" target="_blank">Curriculum</a>
  
 
-## 🖥️ Technologies
+## 🖥️ Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vimossi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
