@@ -9,12 +9,6 @@
 👨‍🎓 Furthermore, I'm degree in Pedagogy from the State University of Mato Grosso do Sul - UEMS.
 </br>
 
-🏃‍♂️ I'm constantly on the move. Never accommodate!
-</br>
-💡 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-</br>
-#### "...If you don't know where you want to go, then it doesn't matter which path you take." Lewis Carroll
-
  - 📍From Campo Grande - MS 🇧🇷
  - 💻 <a href="https://gitconnected.com/vimossi/resume" target="_blank">Curriculum</a>
  
