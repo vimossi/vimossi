@@ -38,4 +38,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimossi&layout=compact&langs_count=16&theme=dracula"/>
 </div> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimossi&layout=compact)](https://github.com/vimossi/github-readme-stats) -->
-![Visitor Count](https://profile-counter.glitch.me/{vimossi}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{vimossi}/count.svg) -->
