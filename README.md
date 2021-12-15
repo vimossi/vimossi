@@ -21,6 +21,10 @@
   <img align="center" alt="vimossi-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
   <img align="center" alt="vimossi-Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
   <img align="center" alt="vimossi-Branch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="vimossi-jest" height="30" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+  <img align="center" alt="vimossi-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="vimossi-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+ 
 </div>
 
 <br />
