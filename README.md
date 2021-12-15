@@ -24,6 +24,8 @@
   <img align="center" alt="vimossi-jest" height="30" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
   <img align="center" alt="vimossi-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="vimossi-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="vimossi-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ 
  
 </div>
 
