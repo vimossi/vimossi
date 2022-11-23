@@ -1,14 +1,12 @@
 # Hey! Sou o Vinicius 👋🏽
 
-🧑‍💻 Estudante de Desenvolvimento Web FullStack pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
+🧑‍💻 Estudante de Desenvolvimento Web Front-end.
  </br>
-🤓 Estou estudando Back-end e sou um Devsenvolvedor Front-end.
 </br>
 👨‍🎓 Além disso, estou me formando em Pedagogia na Universidade Estadual de Mato Grosso do Sul -UEMS.
 </br>
 
  - 📍 Campo Grande - MS 🇧🇷
- - 💻 <a href="https://gitconnected.com/vimossi/resume" target="_blank">Curriculum</a>
  
 
 ## 🖥️ Tecnologias
