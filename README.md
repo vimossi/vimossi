@@ -1,9 +1,9 @@
 # Hey! Sou o Vinicius 👋🏽
 
-🧑‍💻 Estudante de Desenvolvimento Web Front-end.
+🧑‍💻 Estudante de Desenvolvimento Web.
  </br>
 </br>
-👨‍🎓 Além disso, estou me formando em Pedagogia na Universidade Estadual de Mato Grosso do Sul -UEMS.
+👨‍🎓 Além disso, estou me formando em Pedagogia na Universidade Estadual de Mato Grosso do Sul -UEMS e iniciei em 01/2023 o curso de Análise e Desenvolvimento de Sistemas.
 </br>
 
  - 📍 Campo Grande - MS 🇧🇷
