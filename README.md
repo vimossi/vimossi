@@ -1,9 +1,9 @@
 # Hey! Sou o Vinicius 👋🏽
 
-🧑‍💻 Estudante de Desenvolvimento Web.
+🧑‍💻 Estudante de Testes de software QA (cypress).
  </br>
 </br>
-👨‍🎓 Além disso, estou me formando em Pedagogia na Universidade Estadual de Mato Grosso do Sul -UEMS e iniciei em 01/2023 o curso de Análise e Desenvolvimento de Sistemas.
+👨‍🎓 Além disso, sou graduado em Pedagogia - UEMS /2024 e em transição de carreira para área de Tecnologia, possuo conhecimento de programação de Front-end (HTML, CSS, JAVASCRIPT , REACT) e Back-end (MySQL, Docker, MongoDB, Node.js) e atualmente estudando para área de Testes Quality Assurance incluindo automação de testes (Cypress).
 </br>
 
  - 📍 Campo Grande - MS 🇧🇷
