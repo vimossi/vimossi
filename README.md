@@ -1,9 +1,13 @@
 # Hey! Sou o Vinicius 👋🏽
 
-🧑‍💻 Estudante de Testes de software QA (cypress).
+🧑‍💻 Estudante de Testes de software QA.
  </br>
 </br>
-👨‍🎓 Além disso, sou graduado em Pedagogia - UEMS /2024 e em transição de carreira para área de Tecnologia, possuo conhecimento de programação de Front-end (HTML, CSS, JAVASCRIPT , REACT) e Back-end (MySQL, Docker, MongoDB, Node.js) e atualmente estudando para área de Testes Quality Assurance incluindo automação de testes (Cypress).
+👨‍🎓 Graduado em Pedagogia - UEMS /2024 e em transição de carreira para área de Tecnologia. Possuo conhecimento na linguagem de programação Javascript com algumas ferramentas:
+
+•Testes (Quality Assurance): Testes automatizados com CYPRESS, testes manuais, planejamento e criação de casos de testes, elaboração de relatórios de atividades e reporte de falhas e bugs.
+•Front-end --> HTML, CSS, JAVASCRIPT, REACT.
+•Back-end --> MySQL, Docker, MongoDB, Node.js.
 </br>
 
  - 📍 Campo Grande - MS 🇧🇷
