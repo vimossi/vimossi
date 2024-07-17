@@ -6,7 +6,9 @@
 👨‍🎓 Graduado em Pedagogia - UEMS /2024 e em transição de carreira para área de Tecnologia. Possuo conhecimento na linguagem de programação Javascript com algumas ferramentas:
 
 •Testes (Quality Assurance): Testes automatizados com CYPRESS, testes manuais, planejamento e criação de casos de testes, elaboração de relatórios de atividades e reporte de falhas e bugs.
+
 •Front-end --> HTML, CSS, JAVASCRIPT, REACT.
+
 •Back-end --> MySQL, Docker, MongoDB, Node.js.
 </br>
 
