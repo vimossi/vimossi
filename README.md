@@ -5,7 +5,7 @@
 </br>
 👨‍🎓 Graduado em Pedagogia - UEMS /2024 e em transição de carreira para área de Tecnologia. Possuo conhecimento na linguagem de programação Javascript com algumas ferramentas:
 
-•Testes (Quality Assurance): Testes automatizados com CYPRESS, testes manuais, planejamento e criação de casos de testes, elaboração de relatórios de atividades e reporte de falhas e bugs.
+•Testes (Quality Assurance/ QA): Testes automatizados com CYPRESS, testes manuais, planejamento e criação de casos de testes, elaboração de relatórios de atividades e reporte de falhas e bugs.
 
 •Front-end --> HTML, CSS, JAVASCRIPT, REACT.
 
@@ -18,6 +18,7 @@
 ## 🖥️ Tecnologias
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="vimossi-cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">
   <img align="center" alt="vimossi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vimossi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="vimossi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
