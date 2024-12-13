@@ -1,6 +1,5 @@
-# Hey! Sou o Vinicius 👋🏽
+# Hey! I'm Vinicius 👋🏽
 
-🧑‍💻 Estudante de Testes de software QA.
  </br>
 </br>
 PT BR 
