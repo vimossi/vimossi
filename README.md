@@ -2,12 +2,12 @@
 
  </br>
 </br>
-PT BR 
+PT-BR </br>
 QA Engineer Manual com conhecimentos em planejamento, execução e análise de testes manuais, além de experiência prática em automação de testes utilizando Cypress. Familiaridade com rastreamento de bugs e práticas de qualidade de software para garantir a entrega de produtos confiáveis e alinhados às expectativas dos usuários. 
 
 ----------
 
-EN US
+EN-US </br>
 Manual QA Engineer with expertise in planning, executing, and analyzing manual tests, as well as hands-on experience in test automation using Cypress. Familiar with bug tracking and software quality practices to ensure the delivery of reliable products aligned with user expectations.
 
 </br>
