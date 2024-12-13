@@ -3,13 +3,14 @@
 🧑‍💻 Estudante de Testes de software QA.
  </br>
 </br>
-👨‍🎓 Graduado em Pedagogia - UEMS /2024 e em transição de carreira para área de Tecnologia. Possuo conhecimento na linguagem de programação Javascript com algumas ferramentas:
+PT BR 
+QA Engineer Manual com conhecimentos em planejamento, execução e análise de testes manuais, além de experiência prática em automação de testes utilizando Cypress. Familiaridade com rastreamento de bugs e práticas de qualidade de software para garantir a entrega de produtos confiáveis e alinhados às expectativas dos usuários. 
 
-•Testes (Quality Assurance/ QA): Testes automatizados com CYPRESS, testes manuais, planejamento e criação de casos de testes, elaboração de relatórios de atividades e reporte de falhas e bugs.
+----------
 
-•Front-end --> HTML, CSS, JAVASCRIPT, REACT.
+EN US
+Manual QA Engineer with expertise in planning, executing, and analyzing manual tests, as well as hands-on experience in test automation using Cypress. Familiar with bug tracking and software quality practices to ensure the delivery of reliable products aligned with user expectations.
 
-•Back-end --> MySQL, Docker, MongoDB, Node.js.
 </br>
 
  - 📍 Campo Grande - MS 🇧🇷
